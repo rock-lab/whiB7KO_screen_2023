@@ -1,4 +1,6 @@
-# whiB7KO screen (2023)
+# whiB7KO screen (2023) 
+[![DOI](https://zenodo.org/badge/731765643.svg)](https://zenodo.org/doi/10.5281/zenodo.10384791)
+
 Repository containing the code and methods for Poulton et al. 2023
 
 
